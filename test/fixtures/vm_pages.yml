@@ -1,0 +1,39 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  brand_name: MyString
+  post_id: MyString
+  facebook_link: MyString
+  post_copy: MyString
+  post_type: MyString
+  post_date: 2013-07-09 17:05:38
+  post_total_reach: MyString
+  post_organic_reach: MyString
+  post_paid_reach: MyString
+  post_total_impressions: MyString
+  post_organic_impressions: MyString
+  post_paid_impressions: MyString
+  post_lifetime_engaged_users: MyString
+  post_lifetime_talking_about_this: MyString
+  post_lifetime_negative_feedback_from_users: MyString
+  post_engagement_rate: 9.99
+  post_virality: 9.99
+
+two:
+  brand_name: MyString
+  post_id: MyString
+  facebook_link: MyString
+  post_copy: MyString
+  post_type: MyString
+  post_date: 2013-07-09 17:05:38
+  post_total_reach: MyString
+  post_organic_reach: MyString
+  post_paid_reach: MyString
+  post_total_impressions: MyString
+  post_organic_impressions: MyString
+  post_paid_impressions: MyString
+  post_lifetime_engaged_users: MyString
+  post_lifetime_talking_about_this: MyString
+  post_lifetime_negative_feedback_from_users: MyString
+  post_engagement_rate: 9.99
+  post_virality: 9.99
